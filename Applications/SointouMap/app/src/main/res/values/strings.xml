@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SointouMap</string>
+    <string name="title_activity_google_map_pharmacie">MapPharmacie</string>
 </resources>
